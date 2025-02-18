@@ -1,2 +1,4 @@
-# basics-of-computer-algorithms
-My repository to course "Basics of computer algorithms"
+# Main branch with general information
+
+
+### Yaroslav's Smakorovskyi repository to course "Basics of computer algorithms" 
