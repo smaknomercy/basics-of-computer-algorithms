@@ -1,0 +1,5 @@
+Size of the dynamic library is ~ 17424 bytes
+Size of the static library is ~ 5344 bytes
+
+Size of the main_static is ~ 34568 bytes
+Size of the main_dynamic is ~ 34064 bytes
