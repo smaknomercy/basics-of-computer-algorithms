@@ -1,0 +1,8 @@
+// Link to the solution https://leetcode.com/problems/distance-between-bus-stops/submissions/1570480387
+
+● Tilde notation (~) = n
+● Theta notation (Θ) = n
+● Omega notation (Ω) = n
+● Big-O notation (O) = n
+
+~(n) = Θ(n) = O(n) = Ω(n)
