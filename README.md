@@ -1,9 +1,9 @@
-# Home Task #3
+# Home Task #5
 ## To run the task 1 (ConvexHull):
 
 Go to the folder "ConvexHull"
 
-Run: "make" in terminal to compile program with tests
+Run: "make" in terminal to compile program
 
 Then run "./convex_hull"
 
