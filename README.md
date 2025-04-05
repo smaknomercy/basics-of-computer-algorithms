@@ -1,10 +1,10 @@
-# Practical 6
+# Practical 8
 
-## To run the task (convex_hull):
+## To run the task:
 
 Run: "make" in terminal to compile program
 
-Then run "./convex_hull"
+Then run "./practical_8"
 
 
 ### Yaroslav's Smakorovskyi repository to course "Basics of computer algorithms" 
