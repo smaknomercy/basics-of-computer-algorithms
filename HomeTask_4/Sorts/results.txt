@@ -1,0 +1,14 @@
+Size       Algorithm            Random (ms)          Sorted (ms)         
+--------------------------------------------------------------------------
+100        Insertion Sort       0.025                0.003               
+100        Selection Sort       0.023                0.020               
+100        Shell Sort           0.024                0.018               
+1000       Insertion Sort       1.423                0.035               
+1000       Selection Sort       2.191                2.218               
+1000       Shell Sort           0.387                0.281               
+10000      Insertion Sort       110.916              0.140               
+10000      Selection Sort       63.192               41.034              
+10000      Shell Sort           2.767                1.663               
+100000     Insertion Sort       8400.240             1.385               
+100000     Selection Sort       4174.948             3746.235            
+100000     Shell Sort           38.172               21.961   
